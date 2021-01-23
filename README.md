@@ -34,4 +34,9 @@ My FYP on using Deep Learning to identify brain based medical conditions in chil
 
 ### ERSP plots
 
-images here
+<img src="images/ersp-control.svg" >
+
+An example of a _control_ ERSP plot
+
+The X-axis is the time (ms) while the Y-axis is the frequency (Hz). The color indicates the intensity (dB)
+
