@@ -63,3 +63,12 @@ Final validation accuracy is 0.8258 while for the training accuracy is 0.9782
 
 ### Confusion Matrix
 
+<img src="images/cm.svg" >
+
+We use 333 test sample in this confucion matrix
+- Precision : 94.24
+- Recall    : 97.76
+- F-Measure : 95.97
+- Accuracy  : 96.70
+
+_If you have any enquiries feel free to contact me here_
