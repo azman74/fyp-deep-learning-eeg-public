@@ -40,3 +40,11 @@ An example of a _control_ ERSP plot
 
 The X-axis is the time (ms) while the Y-axis is the frequency (Hz). The color indicates the intensity (dB)
 
+## Deep Learning Model Architecture
+
+<img src="images/architecture.jpg" >
+
+Our model consist of 3 Conv2D layers with ReLU activation function, each followed with a Max Pooling with Dropout. The fully connected layer consist of 64 nodes with ReLU activation function, and at the end of the model is a sigmoid activation function with only 1 node.
+
+## Results
+
