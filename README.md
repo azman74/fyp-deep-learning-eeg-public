@@ -48,3 +48,18 @@ Our model consist of 3 Conv2D layers with ReLU activation function, each followe
 
 ## Results
 
+### Graphs
+
+<div class="row">
+  <div class="column">
+    <img src="images/acc.jpg">
+  </div>
+  <div class="column">
+    <img src="images/loss.jpg">
+  </div>
+</div>
+
+Final validation accuracy is 0.8258 while for the training accuracy is 0.9782
+
+### Confusion Matrix
+
